@@ -19,3 +19,7 @@ list all files and directory with more details
 - 4-listmorefiles
 
 list all files, directory and hidden files with more details
+
+- 5-listfilesdigitonly
+
+Display current directory contents.
