@@ -12,6 +12,10 @@ list all files and directory
 
 Go to the base directory or root
 
-3-listfiles
+- 3-listfiles
 
 list all files and directory with more details
+
+- 4-listmorefiles
+
+list all files, directory and hidden files with more details
