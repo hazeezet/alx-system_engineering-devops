@@ -74,4 +74,8 @@ script that deletes all files in the current working directory that end with the
 
  - 103-commas
 
- 
+ a command that lists all the files and directories of the current directory, separated by commas 
+
+ - school.mgc
+
+ can be used with the command file to detect School data files. School data files always contain the string SCHOOL at offset 0.
