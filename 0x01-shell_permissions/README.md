@@ -43,3 +43,7 @@ Other users: all the permissions
 - 9-John_Doe
 
 sets the mode of the file hello to this: -rwxr-x-wx
+
+- 10-mirror_permissions
+
+sets the mode of the file hello the same as olleh’s mode.
